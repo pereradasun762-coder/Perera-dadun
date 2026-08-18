@@ -1,0 +1,6 @@
+{
+  "name": "Kattiya AI Video",
+  "description": "Create stunning AI videos with Sinhala & English prompts, community video showcase, realistic playback timeline, and credit limit system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
